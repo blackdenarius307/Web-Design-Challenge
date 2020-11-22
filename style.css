@@ -1,8 +1,16 @@
-Body {
-    background-color:#111;
+body {
+    background:#111;
 }
 
+h1 {
+    color:#cdcdcd;
+    text-align: center;
+}
 
+p {
+    text-align: center;
+    color: whitesmoke;
+}
 /* The sidebar menu */
 .sidebar {
     height: 100%; /* Full-height: remove this if you want "auto" height */
