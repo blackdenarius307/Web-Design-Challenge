@@ -4,3 +4,9 @@ Demonstrates skill in HTML and CSS by creating a rudimentary webpage using boots
 
 Landing Page:
 ![Image](https://raw.githubusercontent.com/blackdenarius307/Web-Design-Challenge/main/Landing%20Page.PNG)
+
+An example of one of the plots:
+![Image](https://raw.githubusercontent.com/blackdenarius307/Web-Design-Challenge/main/Plot%201%20Page.PNG)
+
+The Data Table:
+![Image](https://raw.githubusercontent.com/blackdenarius307/Web-Design-Challenge/main/Data%20Page.PNG)
